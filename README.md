@@ -172,42 +172,48 @@ Follow the steps below:
 ## Project Output :computer:
 ----------------------
 ### CASE 1
+-----------------------
 
 ![Case1](https://github.com/Vinay199808/Face-Recognition-Based-Attendance-System/blob/main/extra/10.%20Case%201.PNG)
 
 #### Case 1- Face recognition in moderate light conditions
-
+-----------------------
 
 ### CASE 2
+-----------------------
 
 ![Case2](https://github.com/Vinay199808/Face-Recognition-Based-Attendance-System/blob/main/extra/11.%20case%202.PNG)
 
 #### Case 2- Face recognition in ambient light
 
-
+-----------------------
 ### CASE 3 
-
+-----------------------
 ![Case3](https://github.com/Vinay199808/Face-Recognition-Based-Attendance-System/blob/main/extra/12.%20case%203.PNG)
 
 #### Case 3- Face recognition in ambient light with strong database
 
-
+-----------------------
 ### Efficiency Table
-
+-----------------------
 ![Table](https://github.com/Vinay199808/Face-Recognition-Based-Attendance-System/blob/main/extra/13.%20output.PNG)
 
+-----------------------
 ## Certifications :mortar_board:
 ------------------------------
 Certificate of the paper published!
 
 ![Reviewpaper](https://github.com/Vinay199808/Face-Recognition-Based-Attendance-System/blob/main/8.%20Certificates%20of%20Project%20Publication/Review%20paper/IRJET-Vinay%20Sripathi.jpg)
 
+-----------------------
 #### Review Paper 
+-----------------------
 
 ![Thesispaper](https://github.com/Vinay199808/Face-Recognition-Based-Attendance-System/blob/main/8.%20Certificates%20of%20Project%20Publication/Thesis%20paper/IRJET-Mr.%20Vinay%20Sripathi.jpg)
 
+-----------------------
 #### Thesis Paper
-
+-----------------------
 
 ## Contribute :heart:
 --------------------------------------
